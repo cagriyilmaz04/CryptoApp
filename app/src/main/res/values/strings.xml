@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CryptoApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_crypto">Text Crypto</string>
+    <string name="deneme">Deneme</string>
+    <string-array name="spinner">
+        <item>Filtrele</item>
+        <item>A-Z</item>
+        <item>Z-A</item>
+        <item>Düşükten Yükseğe</item>
+        <item>Yüksekten Düşüğe</item>
+    </string-array>
+
+</resources>
